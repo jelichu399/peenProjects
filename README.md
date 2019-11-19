@@ -1,2 +1,2 @@
 # peenProjects
-Projects in Processing
+Peen-Centered Projects in Processing
