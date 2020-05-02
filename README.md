@@ -1,5 +1,5 @@
 # peenProjects
 
-![](peenGrid/peenGridExample.jpeg)
+![](peenGrid/peenGridExample.jpg)
 
 Peen-Centered Projects in Processing
